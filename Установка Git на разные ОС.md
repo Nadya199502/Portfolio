@@ -32,7 +32,7 @@ Git — программа, которая позволяет разработч
 Есть несколько путей установки программы на macOC. Расссмотрим наиболее оптимальный варинат.
 -  Менеджер пакетов Homebrew
 1. Если у вас уже установлен Homebrew, то достаточно открыть терминал и ввести команду
- `$ brew install git`
+ `brew install git`
 2. Если менеджер пакетов не установлен, то для начала введите в терминале команду для установки Homebrew. Вставтье следующую строку в терминал.
-` $/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
  ---
