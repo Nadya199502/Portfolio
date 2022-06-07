@@ -2,6 +2,7 @@
 **Описание**
 Ресурс: https://cataas.com
 В описании документа использованы открытые  API.
+
 **Формат**
 GET /api/cats?tags
 
@@ -26,6 +27,7 @@ Filter fields: сute, gray, fluffy, british shorthai,big-eyes
 GET /api/cats?tags=gray
 
 **Пример ответа**
+```
 {3 entries
     id: "5a788a9330d75654d09430d1",
     created_at: "2018-02-05T16:47:15.411Z",
@@ -60,3 +62,4 @@ GET /api/cats?tags=gray
     tags: [
 "jellybean toes toe beans grey gray mauve"
 ]
+```
